@@ -64,14 +64,3 @@ I work at the intersection of **Machine Learning, Deep Learning, and Generative 
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=krishnab0841&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=krishnab0841&icon=0&color=0)](https://visitcount.itsvg.in)
